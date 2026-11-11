@@ -1,14 +1,14 @@
- <div align="center">
+<div align="center">
 
 # Rayen Haouas
 
 ### Cybersecurity Engineering Student
 
 <h3>
-  <code>Cybersecurity | Cloud Security | IT Infrastructure</code>
+  <code>Cybersecurity | Cloud | IT Infrastructure</code>
 </h3>
 
-**Student at TEK-UP University of Digital Sciences**
+**TEK-UP University of Digital Sciences**
 
 *Learning, Building, and Securing 🔐*
 
@@ -26,65 +26,60 @@
 
 ### 👋 About Me
 
-I'm a Cybersecurity Engineering student at **TEK-UP University of Digital Sciences**, holding a Bachelor's degree in Information Technology, with a background in Network and Systems Infrastructure.
+I'm a Cybersecurity Engineering student at **TEK-UP University of Digital Sciences**, holding a Bachelor's degree in Information Technology.
 
-I have gained hands-on experience through internships involving **Microsoft Azure, Active Directory, Microsoft Intune, Microsoft Defender, and Linux system administration**.
+I have hands-on experience with **Microsoft Azure, Active Directory, Microsoft Intune, Microsoft Defender, and Linux administration** through internships and practical work.
 
-I'm passionate about cybersecurity, technology, and continuous learning. I enjoy exploring different security concepts, understanding how systems work, and applying my knowledge through practical projects and hands-on experience.
+I'm passionate about cybersecurity, technology, and continuous learning, and enjoy developing my skills through hands-on projects.
 
 ---
 
 ### 🎯 Areas of Interest
 
 - 🛡️ Cybersecurity & Information Security
-- 🔍 Security Monitoring, SIEM & Threat Detection
-- ☁️ Cloud Security & Infrastructure
-- 🔐 Identity & Access Management (IAM)
-- 🖥️ Linux, Windows Server & Systems Security
-- 🌐 Network Security & Defense
+- 🔍 Security Monitoring & Threat Detection
+- ☁️ Cloud Computing & Security
+- 🔐 Identity & Access Management
+- 🖥️ Systems & Network Security
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-- **Cloud & Security:** Microsoft Azure, Entra ID, Intune, Defender
+- **Cloud & Security:** Azure, Entra ID, Intune, Defender
 - **Systems:** Linux, RHEL, Windows Server, Active Directory
-- **Programming & Automation:** Python, Bash, Ansible
-- **Other:** Git, GitHub, Power BI, Podman
+- **Programming:** Python, Bash
+- **Automation & Tools:** Ansible, Git, GitHub, Podman
 
 ---
 
-### 💼 Practical Experience
+### 💼 Experience
 
-**Cloud Infrastructure & Enterprise Security — RFC**
+**RFC — IT Internships (2024–2025)**
 
-Through two internships, I gained hands-on experience in:
-
-- Azure infrastructure deployment, Virtual Machines, Virtual Networks, and Azure Bastion.
-- Active Directory deployment and synchronization with Azure AD.
-- Windows device enrollment and security policy management using Microsoft Intune.
-- Microsoft Defender for Endpoint and Conditional Access integration.
-- Power BI dashboards for security posture and compliance monitoring.
+- Deployed Azure infrastructure, Virtual Machines, Virtual Networks, and Azure Bastion.
+- Implemented Active Directory synchronization and automated Windows enrollment into Intune.
+- Configured endpoint security policies, Microsoft Defender for Endpoint, and Conditional Access.
+- Created Power BI dashboards for security posture and compliance monitoring.
 
 ---
 
 ### 🚀 Projects
 
-Currently working on practical projects involving:
+Currently building practical projects involving:
 
-- Security log collection, parsing, and analysis.
-- Rule-based detection engineering and alert generation.
+- Security log collection, analysis, and detection engineering.
 - Linux system administration and automation.
 - Cloud infrastructure and security.
 
-More projects and documentation coming soon!
+More projects coming soon!
 
 ---
 
 ### 📜 Certifications
 
-- **PCAP™ – Certified Associate Python Programmer** — OpenEDG Python Institute (2026)
-- **Red Hat Certified System Administrator (RHCSA)** — Red Hat (2026)
+- **PCAP™ – Certified Associate Python Programmer** — OpenEDG (2026)
+- **RHCSA** — Red Hat (2026)
 - **CCNAv7: Basics of Switching, Routing, and Wireless** — Cisco (2024)
 - **CCNAv7: Introduction to Networks** — Cisco (2024)
 
@@ -92,10 +87,10 @@ More projects and documentation coming soon!
 
 ### 🌱 Currently Learning
 
-- Cybersecurity concepts and defensive security practices.
-- Microsoft Azure administration and security.
-- SIEM, security monitoring, and detection engineering.
-- Python scripting and cybersecurity automation.
+- Cybersecurity and defensive security practices.
+- Cloud administration and security.
+- Security monitoring and SIEM concepts.
+- Python for automation and cybersecurity.
 
 ---
 
