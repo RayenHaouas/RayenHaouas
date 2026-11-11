@@ -1,86 +1,81 @@
-# Hi, I'm Rayen Haouas 👋
+ <div align="center">
 
-### Cybersecurity Engineering Student | RHCSA | PCAP
+# Rayen Haouas
+
+### Cybersecurity Engineering Student
+
+<h3>
+  <code>Cybersecurity | Cloud Security | IT Infrastructure</code>
+</h3>
+
+**Student at TEK-UP University of Digital Sciences**
+
+*Learning, Building, and Securing 🔐*
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rayen-haouas-6a755624b/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/CERTIFICATIONS-RHCSA%20%7C%20PCAP-success?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-TUNISIA-008000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</div>
+
+---
+
+### 👋 About Me
 
 I'm a Cybersecurity Engineering student at **TEK-UP University of Digital Sciences**, with a Bachelor's degree in Information Technology and a background in Network and Systems Infrastructure.
 
-I'm passionate about **Cybersecurity in general**, with interests in understanding how systems work, identifying security weaknesses, protecting IT infrastructures, and investigating security threats.
+I'm interested in cybersecurity in general, particularly Cloud Security, Enterprise Security, Identity & Access Management, Systems Security, and Security Operations.
 
-My technical interests include Cloud Security, Enterprise Security, Identity & Access Management, Systems Security, Security Monitoring, and Threat Detection.
-
-Through internships, certifications, and hands-on projects, I'm continuously developing my technical skills and exploring different areas of cybersecurity.
+I enjoy exploring how systems work, understanding security threats, and building practical projects to strengthen my technical skills.
 
 ---
 
 ### 🎯 Areas of Interest
 
-- 🛡️ **Cybersecurity:** Information Security, Security Fundamentals, Threats & Vulnerabilities
-- 🔍 **Security Operations:** SIEM, Log Analysis, Threat Detection, Incident Response
-- ☁️ **Cloud Security:** Microsoft Azure, Cloud Infrastructure, Cloud Protection
-- 🔐 **Identity & Access Management:** Microsoft Entra ID, Active Directory, IAM
-- 🖥️ **Systems Security:** Linux, Windows Server, Endpoint Security
-- 🌐 **Network Security:** Network Fundamentals, Firewalls, Network Defense
-- ⚙️ **Automation & Scripting:** Python, Bash, Ansible
+- 🛡️ Cybersecurity & Information Security
+- 🔍 Security Monitoring, SIEM & Threat Detection
+- ☁️ Cloud Security & Infrastructure
+- 🔐 Identity & Access Management (IAM)
+- 🖥️ Linux, Windows Server & Systems Security
+- 🌐 Network Security & Defense
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-**Cloud & Microsoft Security**
-- Microsoft Azure
-- Microsoft Entra ID (Azure AD)
-- Microsoft Intune
-- Microsoft Defender for Endpoint
-- Azure Virtual Machines & Virtual Networks
-- Azure Bastion
-
-**Systems & Administration**
-- Red Hat Enterprise Linux (RHEL)
-- Linux Administration
-- Windows Server
-- Active Directory
-- LVM, SELinux, Podman
-
-**Programming & Automation**
-- Python
-- Bash
-- Ansible
-- Git & GitHub
-
-**Security & Monitoring**
-- Security Log Analysis
-- SIEM Concepts
-- Detection Engineering
-- Power BI
+- **Cloud & Security:** Microsoft Azure, Entra ID, Intune, Defender
+- **Systems:** Linux, RHEL, Windows Server, Active Directory
+- **Programming & Automation:** Python, Bash, Ansible
+- **Other:** Git, GitHub, Power BI, Podman
 
 ---
 
 ### 💼 Practical Experience
 
-**Cloud Infrastructure & Enterprise Security**
+**Cloud Infrastructure & Enterprise Security — RFC**
 
-During my internships at RFC, I gained hands-on experience with:
+Through two internships, I gained hands-on experience in:
 
-- Deploying and managing Azure resources, including Virtual Machines and Virtual Networks.
-- Configuring Azure Bastion for secure remote access to virtual machines.
-- Deploying on-premises Active Directory and synchronizing it with Azure AD.
-- Automating Windows device enrollment into Microsoft Intune using Group Policy.
-- Implementing endpoint security and compliance policies through Intune.
-- Integrating Microsoft Defender for Endpoint and configuring Conditional Access policies.
-- Developing Power BI dashboards to visualize device security posture and compliance.
+- Azure infrastructure deployment, Virtual Machines, Virtual Networks, and Azure Bastion.
+- Active Directory deployment and synchronization with Azure AD.
+- Windows device enrollment and security policy management using Microsoft Intune.
+- Microsoft Defender for Endpoint and Conditional Access integration.
+- Power BI dashboards for security posture and compliance monitoring.
 
 ---
 
 ### 🚀 Projects
 
-I'm currently working on practical projects involving:
+Currently working on practical projects involving:
 
 - Security log collection, parsing, and analysis.
-- Detection engineering and rule-based alert generation.
+- Rule-based detection engineering and alert generation.
 - Linux system administration and automation.
 - Cloud infrastructure and security.
-
-I aim to build projects that demonstrate practical skills, document technical workflows, and address real-world infrastructure and cybersecurity challenges.
 
 More projects and documentation coming soon!
 
@@ -88,29 +83,24 @@ More projects and documentation coming soon!
 
 ### 📜 Certifications
 
-- **PCAP™ – Certified Associate Python Programmer** | OpenEDG Python Institute (2026)
-- **Red Hat Certified System Administrator (RHCSA)** | Red Hat (2026)
-- **CCNAv7: Basics of Switching, Routing, and Wireless** | Cisco (2024)
-- **CCNAv7: Introduction to Networks** | Cisco (2024)
+- **PCAP™ – Certified Associate Python Programmer** — OpenEDG Python Institute (2026)
+- **Red Hat Certified System Administrator (RHCSA)** — Red Hat (2026)
+- **CCNAv7: Basics of Switching, Routing, and Wireless** — Cisco (2024)
+- **CCNAv7: Introduction to Networks** — Cisco (2024)
 
 ---
 
 ### 🌱 Currently Learning
 
-- Cybersecurity fundamentals and security practices.
-- Microsoft Azure administration and cloud security.
-- Identity and access management in Microsoft environments.
-- Security monitoring, SIEM, and detection engineering.
-- Python scripting and automation for cybersecurity.
-- Linux system administration and infrastructure automation.
+- Cybersecurity concepts and defensive security practices.
+- Microsoft Azure administration and security.
+- SIEM, security monitoring, and detection engineering.
+- Python scripting and cybersecurity automation.
 
 ---
 
-### 📫 Connect With Me
-
-- **LinkedIn:** [Rayen Haouas](YOUR_LINKEDIN_URL)
-- **GitHub:** [@rayenhwas789](https://github.com/rayenhwas789)
-
----
+<div align="center">
 
 *Learning, building, and improving one project at a time.*
+
+</div>
