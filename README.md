@@ -64,33 +64,12 @@ I'm passionate about cybersecurity, technology, and continuous learning, and enj
 
 ---
 
-### 🚀 Projects
-
-Currently building practical projects involving:
-
-- Security log collection, analysis, and detection engineering.
-- Linux system administration and automation.
-- Cloud infrastructure and security.
-
-More projects coming soon!
-
----
-
 ### 📜 Certifications
 
 - **PCAP™ – Certified Associate Python Programmer** — OpenEDG (2026)
 - **RHCSA** — Red Hat (2026)
 - **CCNAv7: Basics of Switching, Routing, and Wireless** — Cisco (2024)
 - **CCNAv7: Introduction to Networks** — Cisco (2024)
-
----
-
-### 🌱 Currently Learning
-
-- Cybersecurity and defensive security practices.
-- Cloud administration and security.
-- Security monitoring and SIEM concepts.
-- Python for automation and cybersecurity.
 
 ---
 
