@@ -26,8 +26,6 @@
 
 ### 👋 About Me
 
-### 👋 About Me
-
 I'm a Cybersecurity Engineering student at **TEK-UP University of Digital Sciences**, holding a Bachelor's degree in Information Technology, with a background in Network and Systems Infrastructure.
 
 I have gained hands-on experience through internships involving **Microsoft Azure, Active Directory, Microsoft Intune, Microsoft Defender, and Linux system administration**.
