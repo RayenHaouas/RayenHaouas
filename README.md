@@ -26,11 +26,13 @@
 
 ### 👋 About Me
 
-I'm a Cybersecurity Engineering student at **TEK-UP University of Digital Sciences**, with a Bachelor's degree in Information Technology and a background in Network and Systems Infrastructure.
+### 👋 About Me
 
-I'm interested in cybersecurity in general, particularly Cloud Security, Enterprise Security, Identity & Access Management, Systems Security, and Security Operations.
+I'm a Cybersecurity Engineering student at **TEK-UP University of Digital Sciences**, holding a Bachelor's degree in Information Technology, with a background in Network and Systems Infrastructure.
 
-I enjoy exploring how systems work, understanding security threats, and building practical projects to strengthen my technical skills.
+I have gained hands-on experience through internships involving **Microsoft Azure, Active Directory, Microsoft Intune, Microsoft Defender, and Linux system administration**.
+
+I'm passionate about cybersecurity, technology, and continuous learning. I enjoy exploring different security concepts, understanding how systems work, and applying my knowledge through practical projects and hands-on experience.
 
 ---
 
